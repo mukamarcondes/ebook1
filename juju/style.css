@@ -1,0 +1,63 @@
+.glass {
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(18, 22, 87, 0.37);
+    backdrop-filter: blur(4px);
+    border-radius: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.18);
+    width: 800px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    text-align: justify;
+}
+h4{
+text-align: center;
+}
+
+.topo{
+    text-align: center;
+    margin: 0;
+}
+.um{
+    margin-top: 30px;
+}
+.dois{
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+.sete{
+    margin-top: 30px;
+}
+.oito{
+    margin-top: 30px;
+}
+.nove{
+    margin-top: 30px;
+}
+.dez{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+
+
+.cor{
+    font-size: 80px;
+    color: #ff9900;
+}
+.cor1{
+    font-size: 40px;
+    color: #ff9900;
+    margin-top: -80px;
+}
+.frase{
+    font-size: 40px;
+}
+.text{
+    text-align: center;
+    margin-top: 90px;
+}
+body{
+    background-image: url(/img/fundo1.jpg);
+}
